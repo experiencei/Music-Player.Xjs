@@ -15,22 +15,22 @@ const songs = [
   {
     name: 'jacinto-1',
     displayName: 'Electric Chill Machine',
-    artist: 'Jacinto Design',
+    artist: 'Experience i',
   },
   {
     name: 'jacinto-2',
     displayName: 'Seven Nation Army (Remix)',
-    artist: 'Jacinto Design',
+    artist: 'Experience i',
   },
   {
     name: 'jacinto-3',
     displayName: 'Goodnight, Disco Queen',
-    artist: 'Jacinto Design',
+    artist: 'Experience i',
   },
   {
     name: 'metric-1',
     displayName: 'Front Row (Remix)',
-    artist: 'Metric/Jacinto Design',
+    artist: 'Metric/Jacinto /Experience i',
   },
 ];
 
