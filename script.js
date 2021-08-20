@@ -1,14 +1,14 @@
-const image = document.querySelector('img');
-const title = document.getElementById('title');
-const artist = document.getElementById('artist');
-const music = document.querySelector('audio');
-const currentTimeEl = document.getElementById('current-time');
-const durationEl = document.getElementById('duration');
-const progress = document.getElementById('progress');
-const progressContainer = document.getElementById('progress-container');
-const prevBtn = document.getElementById('prev');
-const playBtn = document.getElementById('play');
-const nextBtn = document.getElementById('next');
+const image = document.querySelector('img'),
+    title = document.getElementById('title'),
+    artist = document.getElementById('artist'),
+    music = document.querySelector('audio'),
+    currentTimeEl = document.getElementById('current-time'),
+    durationEl = document.getElementById('duration'),
+    progress = document.getElementById('progress'),
+    progressContainer = document.getElementById('progress-container'),
+    prevBtn = document.getElementById('prev'),
+    playBtn = document.getElementById('play'),
+    nextBtn = document.getElementById('next');
 
 // Music
 const songs = [
